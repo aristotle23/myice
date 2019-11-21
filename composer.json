@@ -1,0 +1,8 @@
+{
+    "require": {
+        "kreait/firebase-php": "^4.35",
+        "ktamas77/firebase-php": "^2.2",
+        "phpunit/phpunit": "^7.5",
+        "ext-json": "*"
+    }
+}
